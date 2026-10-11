@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目博客写作"
+  short_description: "从项目记录提炼真实技术实践，撰写可复现且有个人视角的中文博客"
+  default_prompt: "使用 $project-blog-writer，根据我的项目记录写一篇中文技术博客。"
